@@ -1,0 +1,6 @@
+raw_path: "/Volumes/etl-demo-catalog/bronze/bronze_data/department/"
+catalog_name: "etl-demo-catalog"
+bronze_table_name: "bronze.department"
+silver_table_name: "silver.department"
+
+
