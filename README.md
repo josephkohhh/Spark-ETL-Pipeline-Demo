@@ -1,6 +1,8 @@
-# Retail Sales
+# Spark ETL Demo
 
-This repo contains my notebook and dashboard for Spark ETL Pipeline Demo
+This repo contains my Spark ETL Pipeline Demo
+
+<img src="medallion-architecture.png" alt="Banner Image" title="Banner Image" width="550px" height="450px">
 
 ## Table of Contents
 
